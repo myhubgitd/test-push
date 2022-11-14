@@ -1,4 +1,4 @@
-FROM almalinux:8.4
+FROM almalinux:8.7
 
 RUN echo -e '[AdoptOpenJDK]\n\
 name=AdoptOpenJDK\n\
